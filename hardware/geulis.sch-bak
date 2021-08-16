@@ -1478,39 +1478,39 @@ Connection ~ 8250 1250
 Wire Wire Line
 	8250 1250 10250 1250
 Text GLabel 8100 1250 0    50   Input ~ 0
-r0
+C0
 Text GLabel 8100 1350 0    50   Input ~ 0
-r1
+C1
 Text GLabel 8100 1950 0    50   Input ~ 0
-r2
+C2
 Text GLabel 8100 2050 0    50   Input ~ 0
-r3
+C3
 Text GLabel 8100 2650 0    50   Input ~ 0
-r4
+C4
 Text GLabel 8100 2750 0    50   Input ~ 0
-r5
+C5
 Text GLabel 8100 3350 0    50   Input ~ 0
-r6
+C6
 Text GLabel 8100 3450 0    50   Input ~ 0
-r7
+C7
 Text GLabel 8100 4000 0    50   Input ~ 0
-r8
+C8
 Text GLabel 8100 4100 0    50   Input ~ 0
-r9
+C9
 Text GLabel 9150 950  0    50   Input ~ 0
-c0
+R0
 Text GLabel 11150 950  0    50   Input ~ 0
-c1
+R1
 Text GLabel 13150 950  0    50   Input ~ 0
-c2
+R2
 Text GLabel 15150 950  0    50   Input ~ 0
-c3
+R3
 Text GLabel 17150 950  0    50   Input ~ 0
-c4
+R4
 Text GLabel 19150 950  0    50   Input ~ 0
-c5
+R5
 Text GLabel 21150 950  0    50   Input ~ 0
-c6
+R6
 $Comp
 L Device:Rotary_Encoder_Switch SW29_2
 U 1 1 60E03D83
@@ -3887,31 +3887,31 @@ Wire Wire Line
 	3350 2000 3350 3200
 Connection ~ 3350 3200
 Text GLabel 2100 3700 3    50   Input ~ 0
-r0
+C0
 Text GLabel 2000 3700 3    50   Input ~ 0
-r1
+C1
 Text GLabel 1700 3700 3    50   Input ~ 0
-r2
+C2
 Text GLabel 1400 2600 0    50   Input ~ 0
-r4
+C4
 Text GLabel 2800 2900 2    50   Input ~ 0
-r6
+C6
 Text GLabel 1400 3000 0    50   Input ~ 0
-r7
+C7
 Text GLabel 1400 2800 0    50   Input ~ 0
-r8
+C8
 Text GLabel 1400 2700 0    50   Input ~ 0
-c0
+R0
 Text GLabel 1400 2300 0    50   Input ~ 0
-c2
+R2
 Text GLabel 2800 2400 2    50   Input ~ 0
-c3
+R3
 Text GLabel 2800 2300 2    50   Input ~ 0
-c4
+R4
 Text GLabel 2800 2700 2    50   Input ~ 0
-c5
+R5
 Text GLabel 2800 2800 2    50   Input ~ 0
-c6
+R6
 Text GLabel 1400 1700 0    50   Input ~ 0
 rot1a
 Text GLabel 1400 1800 0    50   Input ~ 0
@@ -3969,9 +3969,9 @@ P1.05
 Text Label 2800 1000 0    50   ~ 0
 P1.07
 Text GLabel 1400 2900 0    50   Input ~ 0
-r9
+C9
 Text GLabel 1900 3700 3    50   Input ~ 0
-r3
+C3
 Text Label 2800 1700 0    50   ~ 0
 P0.13
 Text Label 2800 1800 0    50   ~ 0
@@ -3990,9 +3990,9 @@ F 3 "~" H 7650 8700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 1400 2500 0    50   Input ~ 0
-r5
+C5
 Text GLabel 1400 2400 0    50   Input ~ 0
-c1
+R1
 Text Label 1400 1000 2    50   ~ 0
 P1.14
 Text Label 1400 1200 2    50   ~ 0
@@ -4092,10 +4092,10 @@ Wire Notes Line
 Wire Notes Line
 	22450 500  22450 7750
 $Comp
-L Jumper:Jumper_2_Open JP?
+L Jumper:Jumper_2_Open JP7
 U 1 1 636D11AD
 P 2250 5850
-F 0 "JP?" H 2250 6085 50  0000 C CNN
+F 0 "JP7" H 2250 6085 50  0000 C CNN
 F 1 "vbat_switch" H 2250 5994 50  0000 C CNN
 F 2 "kbd:Jumper" H 2250 5850 50  0001 C CNN
 F 3 "~" H 2250 5850 50  0001 C CNN

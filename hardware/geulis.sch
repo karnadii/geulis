@@ -14,1504 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Diode:BAV70 D1
-U 1 1 60B72332
-P 9150 1300
-F 0 "D1" H 9150 1517 50  0000 C CNN
-F 1 "BAV70" H 9150 1426 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 9150 1300 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 1300 50  0001 C CNN
-	1    9150 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW1
-U 1 1 60B787B3
-P 8550 1300
-F 0 "SW1" H 8550 1555 50  0000 C CNN
-F 1 "SW_PUSH" H 8550 1464 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 8550 1300 50  0001 C CNN
-F 3 "" H 8550 1300 50  0000 C CNN
-	1    8550 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW2
-U 1 1 60B7D341
-P 9750 1300
-F 0 "SW2" H 9750 1109 50  0000 C CNN
-F 1 "SW_PUSH" H 9750 1200 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 9750 1300 50  0001 C CNN
-F 3 "" H 9750 1300 50  0000 C CNN
-	1    9750 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D6
-U 1 1 60C17412
-P 11150 1300
-F 0 "D6" H 11150 1517 50  0000 C CNN
-F 1 "BAV70" H 11150 1426 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 11150 1300 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 1300 50  0001 C CNN
-	1    11150 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW3
-U 1 1 60C17418
-P 10550 1300
-F 0 "SW3" H 10550 1555 50  0000 C CNN
-F 1 "SW_PUSH" H 10550 1464 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 10550 1300 50  0001 C CNN
-F 3 "" H 10550 1300 50  0000 C CNN
-	1    10550 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW4
-U 1 1 60C1741E
-P 11750 1300
-F 0 "SW4" H 11750 1109 50  0000 C CNN
-F 1 "SW_PUSH" H 11750 1200 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 11750 1300 50  0001 C CNN
-F 3 "" H 11750 1300 50  0000 C CNN
-	1    11750 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D11
-U 1 1 60C18914
-P 13150 1300
-F 0 "D11" H 13150 1517 50  0000 C CNN
-F 1 "BAV70" H 13150 1426 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 13150 1300 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 1300 50  0001 C CNN
-	1    13150 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW5
-U 1 1 60C1891A
-P 12550 1300
-F 0 "SW5" H 12550 1555 50  0000 C CNN
-F 1 "SW_PUSH" H 12550 1464 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 12550 1300 50  0001 C CNN
-F 3 "" H 12550 1300 50  0000 C CNN
-	1    12550 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW6
-U 1 1 60C18920
-P 13750 1300
-F 0 "SW6" H 13750 1109 50  0000 C CNN
-F 1 "SW_PUSH" H 13750 1200 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 1300 50  0001 C CNN
-F 3 "" H 13750 1300 50  0000 C CNN
-	1    13750 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D16
-U 1 1 60C1A658
-P 15150 1300
-F 0 "D16" H 15150 1517 50  0000 C CNN
-F 1 "BAV70" H 15150 1426 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 15150 1300 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 1300 50  0001 C CNN
-	1    15150 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW7
-U 1 1 60C1A65E
-P 14550 1300
-F 0 "SW7" H 14550 1555 50  0000 C CNN
-F 1 "SW_PUSH" H 14550 1464 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 14550 1300 50  0001 C CNN
-F 3 "" H 14550 1300 50  0000 C CNN
-	1    14550 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW8
-U 1 1 60C1A664
-P 15750 1300
-F 0 "SW8" H 15750 1109 50  0000 C CNN
-F 1 "SW_PUSH" H 15750 1200 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 15750 1300 50  0001 C CNN
-F 3 "" H 15750 1300 50  0000 C CNN
-	1    15750 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D21
-U 1 1 60C1C966
-P 17150 1300
-F 0 "D21" H 17150 1517 50  0000 C CNN
-F 1 "BAV70" H 17150 1426 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 17150 1300 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 17150 1300 50  0001 C CNN
-	1    17150 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW9
-U 1 1 60C1C96C
-P 16550 1300
-F 0 "SW9" H 16550 1555 50  0000 C CNN
-F 1 "SW_PUSH" H 16550 1464 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 16550 1300 50  0001 C CNN
-F 3 "" H 16550 1300 50  0000 C CNN
-	1    16550 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW10
-U 1 1 60C1C972
-P 17750 1300
-F 0 "SW10" H 17750 1109 50  0000 C CNN
-F 1 "SW_PUSH" H 17750 1200 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 17750 1300 50  0001 C CNN
-F 3 "" H 17750 1300 50  0000 C CNN
-	1    17750 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D25
-U 1 1 60C1FB6C
-P 19150 1300
-F 0 "D25" H 19150 1517 50  0000 C CNN
-F 1 "BAV70" H 19150 1426 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 19150 1300 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 19150 1300 50  0001 C CNN
-	1    19150 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW11
-U 1 1 60C1FB72
-P 18550 1300
-F 0 "SW11" H 18550 1555 50  0000 C CNN
-F 1 "SW_PUSH" H 18550 1464 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 18550 1300 50  0001 C CNN
-F 3 "" H 18550 1300 50  0000 C CNN
-	1    18550 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW12
-U 1 1 60C1FB78
-P 19750 1300
-F 0 "SW12" H 19750 1109 50  0000 C CNN
-F 1 "SW_PUSH" H 19750 1200 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 19750 1300 50  0001 C CNN
-F 3 "" H 19750 1300 50  0000 C CNN
-	1    19750 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D29
-U 1 1 60C21165
-P 21150 1300
-F 0 "D29" H 21150 1517 50  0000 C CNN
-F 1 "BAV70" H 21150 1426 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 21150 1300 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 1300 50  0001 C CNN
-	1    21150 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW13
-U 1 1 60C2116B
-P 20550 1300
-F 0 "SW13" H 20550 1555 50  0000 C CNN
-F 1 "SW_PUSH" H 20550 1464 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 20550 1300 50  0001 C CNN
-F 3 "" H 20550 1300 50  0000 C CNN
-	1    20550 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW14
-U 1 1 60C21171
-P 21750 1300
-F 0 "SW14" H 21750 1109 50  0000 C CNN
-F 1 "SW_PUSH" H 21750 1200 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-2U-Hotswap" H 21750 1300 50  0001 C CNN
-F 3 "" H 21750 1300 50  0000 C CNN
-	1    21750 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D2
-U 1 1 60C3FDB1
-P 9150 2000
-F 0 "D2" H 9150 2217 50  0000 C CNN
-F 1 "BAV70" H 9150 2126 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 9150 2000 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 2000 50  0001 C CNN
-	1    9150 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW15
-U 1 1 60C3FDB7
-P 8550 2000
-F 0 "SW15" H 8550 2255 50  0000 C CNN
-F 1 "SW_PUSH" H 8550 2164 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 8550 2000 50  0001 C CNN
-F 3 "" H 8550 2000 50  0000 C CNN
-	1    8550 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW16
-U 1 1 60C3FDBD
-P 9750 2000
-F 0 "SW16" H 9750 1809 50  0000 C CNN
-F 1 "SW_PUSH" H 9750 1900 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 9750 2000 50  0001 C CNN
-F 3 "" H 9750 2000 50  0000 C CNN
-	1    9750 2000
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D7
-U 1 1 60C3FDC3
-P 11150 2000
-F 0 "D7" H 11150 2217 50  0000 C CNN
-F 1 "BAV70" H 11150 2126 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 11150 2000 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 2000 50  0001 C CNN
-	1    11150 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW17
-U 1 1 60C3FDC9
-P 10550 2000
-F 0 "SW17" H 10550 2255 50  0000 C CNN
-F 1 "SW_PUSH" H 10550 2164 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 10550 2000 50  0001 C CNN
-F 3 "" H 10550 2000 50  0000 C CNN
-	1    10550 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW18
-U 1 1 60C3FDCF
-P 11750 2000
-F 0 "SW18" H 11750 1809 50  0000 C CNN
-F 1 "SW_PUSH" H 11750 1900 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 11750 2000 50  0001 C CNN
-F 3 "" H 11750 2000 50  0000 C CNN
-	1    11750 2000
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D12
-U 1 1 60C3FDD5
-P 13150 2000
-F 0 "D12" H 13150 2217 50  0000 C CNN
-F 1 "BAV70" H 13150 2126 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 13150 2000 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 2000 50  0001 C CNN
-	1    13150 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW19
-U 1 1 60C3FDDB
-P 12550 2000
-F 0 "SW19" H 12550 2255 50  0000 C CNN
-F 1 "SW_PUSH" H 12550 2164 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 12550 2000 50  0001 C CNN
-F 3 "" H 12550 2000 50  0000 C CNN
-	1    12550 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW20
-U 1 1 60C3FDE1
-P 13750 2000
-F 0 "SW20" H 13750 1809 50  0000 C CNN
-F 1 "SW_PUSH" H 13750 1900 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 2000 50  0001 C CNN
-F 3 "" H 13750 2000 50  0000 C CNN
-	1    13750 2000
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D17
-U 1 1 60C3FDE7
-P 15150 2000
-F 0 "D17" H 15150 2217 50  0000 C CNN
-F 1 "BAV70" H 15150 2126 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 15150 2000 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 2000 50  0001 C CNN
-	1    15150 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW21
-U 1 1 60C3FDED
-P 14550 2000
-F 0 "SW21" H 14550 2255 50  0000 C CNN
-F 1 "SW_PUSH" H 14550 2164 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 14550 2000 50  0001 C CNN
-F 3 "" H 14550 2000 50  0000 C CNN
-	1    14550 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW22
-U 1 1 60C3FDF3
-P 15750 2000
-F 0 "SW22" H 15750 1809 50  0000 C CNN
-F 1 "SW_PUSH" H 15750 1900 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 15750 2000 50  0001 C CNN
-F 3 "" H 15750 2000 50  0000 C CNN
-	1    15750 2000
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D22
-U 1 1 60C3FDF9
-P 17150 2000
-F 0 "D22" H 17150 2217 50  0000 C CNN
-F 1 "BAV70" H 17150 2126 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 17150 2000 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 17150 2000 50  0001 C CNN
-	1    17150 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW23
-U 1 1 60C3FDFF
-P 16550 2000
-F 0 "SW23" H 16550 2255 50  0000 C CNN
-F 1 "SW_PUSH" H 16550 2164 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 16550 2000 50  0001 C CNN
-F 3 "" H 16550 2000 50  0000 C CNN
-	1    16550 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW24
-U 1 1 60C3FE05
-P 17750 2000
-F 0 "SW24" H 17750 1809 50  0000 C CNN
-F 1 "SW_PUSH" H 17750 1900 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 17750 2000 50  0001 C CNN
-F 3 "" H 17750 2000 50  0000 C CNN
-	1    17750 2000
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D26
-U 1 1 60C3FE0B
-P 19150 2000
-F 0 "D26" H 19150 2217 50  0000 C CNN
-F 1 "BAV70" H 19150 2126 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 19150 2000 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 19150 2000 50  0001 C CNN
-	1    19150 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW25
-U 1 1 60C3FE11
-P 18550 2000
-F 0 "SW25" H 18550 2255 50  0000 C CNN
-F 1 "SW_PUSH" H 18550 2164 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 18550 2000 50  0001 C CNN
-F 3 "" H 18550 2000 50  0000 C CNN
-	1    18550 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW26
-U 1 1 60C3FE17
-P 19750 2000
-F 0 "SW26" H 19750 1809 50  0000 C CNN
-F 1 "SW_PUSH" H 19750 1900 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 19750 2000 50  0001 C CNN
-F 3 "" H 19750 2000 50  0000 C CNN
-	1    19750 2000
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D30
-U 1 1 60C3FE1D
-P 21150 2000
-F 0 "D30" H 21150 2217 50  0000 C CNN
-F 1 "BAV70" H 21150 2126 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 21150 2000 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 2000 50  0001 C CNN
-	1    21150 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW27
-U 1 1 60C3FE23
-P 20550 2000
-F 0 "SW27" H 20550 2255 50  0000 C CNN
-F 1 "SW_PUSH" H 20550 2164 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 20550 2000 50  0001 C CNN
-F 3 "" H 20550 2000 50  0000 C CNN
-	1    20550 2000
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW28
-U 1 1 60C3FE29
-P 21750 2000
-F 0 "SW28" H 21750 1809 50  0000 C CNN
-F 1 "SW_PUSH" H 21750 1900 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 21750 2000 50  0001 C CNN
-F 3 "" H 21750 2000 50  0000 C CNN
-	1    21750 2000
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D3
-U 1 1 60C4C80A
-P 9150 2700
-F 0 "D3" H 9150 2917 50  0000 C CNN
-F 1 "BAV70" H 9150 2826 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 9150 2700 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 2700 50  0001 C CNN
-	1    9150 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW29
-U 1 1 60C4C810
-P 8550 2700
-F 0 "SW29" H 8550 2955 50  0000 C CNN
-F 1 "SW_PUSH" H 8550 2864 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 8550 2700 50  0001 C CNN
-F 3 "" H 8550 2700 50  0000 C CNN
-	1    8550 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW30
-U 1 1 60C4C816
-P 9750 2700
-F 0 "SW30" H 9750 2509 50  0000 C CNN
-F 1 "SW_PUSH" H 9750 2600 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.75U-Hotswap" H 9750 2700 50  0001 C CNN
-F 3 "" H 9750 2700 50  0000 C CNN
-	1    9750 2700
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D8
-U 1 1 60C4C81C
-P 11150 2700
-F 0 "D8" H 11150 2917 50  0000 C CNN
-F 1 "BAV70" H 11150 2826 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 11150 2700 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 2700 50  0001 C CNN
-	1    11150 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW31
-U 1 1 60C4C822
-P 10550 2700
-F 0 "SW31" H 10550 2955 50  0000 C CNN
-F 1 "SW_PUSH" H 10550 2864 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 10550 2700 50  0001 C CNN
-F 3 "" H 10550 2700 50  0000 C CNN
-	1    10550 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW32
-U 1 1 60C4C828
-P 11750 2700
-F 0 "SW32" H 11750 2509 50  0000 C CNN
-F 1 "SW_PUSH" H 11750 2600 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 11750 2700 50  0001 C CNN
-F 3 "" H 11750 2700 50  0000 C CNN
-	1    11750 2700
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D13
-U 1 1 60C4C82E
-P 13150 2700
-F 0 "D13" H 13150 2917 50  0000 C CNN
-F 1 "BAV70" H 13150 2826 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 13150 2700 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 2700 50  0001 C CNN
-	1    13150 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW33
-U 1 1 60C4C834
-P 12550 2700
-F 0 "SW33" H 12550 2955 50  0000 C CNN
-F 1 "SW_PUSH" H 12550 2864 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 12550 2700 50  0001 C CNN
-F 3 "" H 12550 2700 50  0000 C CNN
-	1    12550 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW34
-U 1 1 60C4C83A
-P 13750 2700
-F 0 "SW34" H 13750 2509 50  0000 C CNN
-F 1 "SW_PUSH" H 13750 2600 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 2700 50  0001 C CNN
-F 3 "" H 13750 2700 50  0000 C CNN
-	1    13750 2700
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D18
-U 1 1 60C4C840
-P 15150 2700
-F 0 "D18" H 15150 2917 50  0000 C CNN
-F 1 "BAV70" H 15150 2826 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 15150 2700 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 2700 50  0001 C CNN
-	1    15150 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW35
-U 1 1 60C4C846
-P 14550 2700
-F 0 "SW35" H 14550 2955 50  0000 C CNN
-F 1 "SW_PUSH" H 14550 2864 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 14550 2700 50  0001 C CNN
-F 3 "" H 14550 2700 50  0000 C CNN
-	1    14550 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW36
-U 1 1 60C4C84C
-P 15750 2700
-F 0 "SW36" H 15750 2509 50  0000 C CNN
-F 1 "SW_PUSH" H 15750 2600 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 15750 2700 50  0001 C CNN
-F 3 "" H 15750 2700 50  0000 C CNN
-	1    15750 2700
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D23
-U 1 1 60C4C852
-P 17150 2700
-F 0 "D23" H 17150 2917 50  0000 C CNN
-F 1 "BAV70" H 17150 2826 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 17150 2700 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 17150 2700 50  0001 C CNN
-	1    17150 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW37
-U 1 1 60C4C858
-P 16550 2700
-F 0 "SW37" H 16550 2955 50  0000 C CNN
-F 1 "SW_PUSH" H 16550 2864 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 16550 2700 50  0001 C CNN
-F 3 "" H 16550 2700 50  0000 C CNN
-	1    16550 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Diode:BAV70 D27
-U 1 1 60C4C864
-P 19150 2700
-F 0 "D27" H 19150 2917 50  0000 C CNN
-F 1 "BAV70" H 19150 2826 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 19150 2700 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 19150 2700 50  0001 C CNN
-	1    19150 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW39
-U 1 1 60C4C86A
-P 18550 2700
-F 0 "SW39" H 18550 2955 50  0000 C CNN
-F 1 "SW_PUSH" H 18550 2864 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 18550 2700 50  0001 C CNN
-F 3 "" H 18550 2700 50  0000 C CNN
-	1    18550 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW40
-U 1 1 60C4C870
-P 19750 2700
-F 0 "SW40" H 19750 2509 50  0000 C CNN
-F 1 "SW_PUSH" H 19750 2600 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 19750 2700 50  0001 C CNN
-F 3 "" H 19750 2700 50  0000 C CNN
-	1    19750 2700
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D31
-U 1 1 60C4C876
-P 21150 2700
-F 0 "D31" H 21150 2917 50  0000 C CNN
-F 1 "BAV70" H 21150 2826 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 21150 2700 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 2700 50  0001 C CNN
-	1    21150 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW41
-U 1 1 60C4C87C
-P 20550 2700
-F 0 "SW41" H 20550 2955 50  0000 C CNN
-F 1 "SW_PUSH" H 20550 2864 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 20550 2700 50  0001 C CNN
-F 3 "" H 20550 2700 50  0000 C CNN
-	1    20550 2700
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW42
-U 1 1 60C4C882
-P 21750 2700
-F 0 "SW42" H 21750 2509 50  0000 C CNN
-F 1 "SW_PUSH" H 21750 2600 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-2.25U-Hotswap-ReversedStabilizers" H 21750 2700 50  0001 C CNN
-F 3 "" H 21750 2700 50  0000 C CNN
-	1    21750 2700
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D4
-U 1 1 60C58BCF
-P 9150 3400
-F 0 "D4" H 9150 3617 50  0000 C CNN
-F 1 "BAV70" H 9150 3526 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 9150 3400 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 3400 50  0001 C CNN
-	1    9150 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW43
-U 1 1 60C58BD5
-P 8550 3400
-F 0 "SW43" H 8550 3655 50  0000 C CNN
-F 1 "SW_PUSH" H 8550 3564 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-2.25U-Hotswap" H 8550 3400 50  0001 C CNN
-F 3 "" H 8550 3400 50  0000 C CNN
-	1    8550 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW44
-U 1 1 60C58BDB
-P 9750 3400
-F 0 "SW44" H 9750 3209 50  0000 C CNN
-F 1 "SW_PUSH" H 9750 3300 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 9750 3400 50  0001 C CNN
-F 3 "" H 9750 3400 50  0000 C CNN
-	1    9750 3400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D9
-U 1 1 60C58BE1
-P 11150 3400
-F 0 "D9" H 11150 3617 50  0000 C CNN
-F 1 "BAV70" H 11150 3526 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 11150 3400 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 3400 50  0001 C CNN
-	1    11150 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW45
-U 1 1 60C58BE7
-P 10550 3400
-F 0 "SW45" H 10550 3655 50  0000 C CNN
-F 1 "SW_PUSH" H 10550 3564 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 10550 3400 50  0001 C CNN
-F 3 "" H 10550 3400 50  0000 C CNN
-	1    10550 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW46
-U 1 1 60C58BED
-P 11750 3400
-F 0 "SW46" H 11750 3209 50  0000 C CNN
-F 1 "SW_PUSH" H 11750 3300 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 11750 3400 50  0001 C CNN
-F 3 "" H 11750 3400 50  0000 C CNN
-	1    11750 3400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D14
-U 1 1 60C58BF3
-P 13150 3400
-F 0 "D14" H 13150 3617 50  0000 C CNN
-F 1 "BAV70" H 13150 3526 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 13150 3400 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 3400 50  0001 C CNN
-	1    13150 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW47
-U 1 1 60C58BF9
-P 12550 3400
-F 0 "SW47" H 12550 3655 50  0000 C CNN
-F 1 "SW_PUSH" H 12550 3564 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 12550 3400 50  0001 C CNN
-F 3 "" H 12550 3400 50  0000 C CNN
-	1    12550 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW48
-U 1 1 60C58BFF
-P 13750 3400
-F 0 "SW48" H 13750 3209 50  0000 C CNN
-F 1 "SW_PUSH" H 13750 3300 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 3400 50  0001 C CNN
-F 3 "" H 13750 3400 50  0000 C CNN
-	1    13750 3400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D19
-U 1 1 60C58C05
-P 15150 3400
-F 0 "D19" H 15150 3617 50  0000 C CNN
-F 1 "BAV70" H 15150 3526 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 15150 3400 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 3400 50  0001 C CNN
-	1    15150 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW49
-U 1 1 60C58C0B
-P 14550 3400
-F 0 "SW49" H 14550 3655 50  0000 C CNN
-F 1 "SW_PUSH" H 14550 3564 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 14550 3400 50  0001 C CNN
-F 3 "" H 14550 3400 50  0000 C CNN
-	1    14550 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW50
-U 1 1 60C58C11
-P 15750 3400
-F 0 "SW50" H 15750 3209 50  0000 C CNN
-F 1 "SW_PUSH" H 15750 3300 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 15750 3400 50  0001 C CNN
-F 3 "" H 15750 3400 50  0000 C CNN
-	1    15750 3400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D24
-U 1 1 60C58C17
-P 17150 3400
-F 0 "D24" H 17150 3617 50  0000 C CNN
-F 1 "BAV70" H 17150 3526 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 17150 3400 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 17150 3400 50  0001 C CNN
-	1    17150 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW51
-U 1 1 60C58C1D
-P 16550 3400
-F 0 "SW51" H 16550 3655 50  0000 C CNN
-F 1 "SW_PUSH" H 16550 3564 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 16550 3400 50  0001 C CNN
-F 3 "" H 16550 3400 50  0000 C CNN
-	1    16550 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW52
-U 1 1 60C58C23
-P 17750 3400
-F 0 "SW52" H 17750 3209 50  0000 C CNN
-F 1 "SW_PUSH" H 17750 3300 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 17750 3400 50  0001 C CNN
-F 3 "" H 17750 3400 50  0000 C CNN
-	1    17750 3400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D28
-U 1 1 60C58C29
-P 19150 3400
-F 0 "D28" H 19150 3617 50  0000 C CNN
-F 1 "BAV70" H 19150 3526 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 19150 3400 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 19150 3400 50  0001 C CNN
-	1    19150 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW53
-U 1 1 60C58C2F
-P 18550 3400
-F 0 "SW53" H 18550 3655 50  0000 C CNN
-F 1 "SW_PUSH" H 18550 3564 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 18550 3400 50  0001 C CNN
-F 3 "" H 18550 3400 50  0000 C CNN
-	1    18550 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW54
-U 1 1 60C58C35
-P 19750 3400
-F 0 "SW54" H 19750 3209 50  0000 C CNN
-F 1 "SW_PUSH" H 19750 3300 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 19750 3400 50  0001 C CNN
-F 3 "" H 19750 3400 50  0000 C CNN
-	1    19750 3400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D32
-U 1 1 60C58C3B
-P 21150 3400
-F 0 "D32" H 21150 3617 50  0000 C CNN
-F 1 "BAV70" H 21150 3526 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 21150 3400 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 3400 50  0001 C CNN
-	1    21150 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW55
-U 1 1 60C58C41
-P 20550 3400
-F 0 "SW55" H 20550 3655 50  0000 C CNN
-F 1 "SW_PUSH" H 20550 3564 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.75U-Hotswap" H 20550 3400 50  0001 C CNN
-F 3 "" H 20550 3400 50  0000 C CNN
-	1    20550 3400
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW56
-U 1 1 60C58C47
-P 21750 3400
-F 0 "SW56" H 21750 3209 50  0000 C CNN
-F 1 "SW_PUSH" H 21750 3300 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 21750 3400 50  0001 C CNN
-F 3 "" H 21750 3400 50  0000 C CNN
-	1    21750 3400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D5
-U 1 1 60C632B8
-P 9150 4050
-F 0 "D5" H 9150 4267 50  0000 C CNN
-F 1 "BAV70" H 9150 4176 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 9150 4050 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 4050 50  0001 C CNN
-	1    9150 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW57
-U 1 1 60C632BE
-P 8550 4050
-F 0 "SW57" H 8550 4305 50  0000 C CNN
-F 1 "SW_PUSH" H 8550 4214 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 8550 4050 50  0001 C CNN
-F 3 "" H 8550 4050 50  0000 C CNN
-	1    8550 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW58
-U 1 1 60C632C4
-P 9750 4050
-F 0 "SW58" H 9750 3859 50  0000 C CNN
-F 1 "SW_PUSH" H 9750 3950 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 9750 4050 50  0001 C CNN
-F 3 "" H 9750 4050 50  0000 C CNN
-	1    9750 4050
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D10
-U 1 1 60C632CA
-P 11150 4050
-F 0 "D10" H 11150 4267 50  0000 C CNN
-F 1 "BAV70" H 11150 4176 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 11150 4050 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 4050 50  0001 C CNN
-	1    11150 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW59
-U 1 1 60C632D0
-P 10550 4050
-F 0 "SW59" H 10550 4305 50  0000 C CNN
-F 1 "SW_PUSH" H 10550 4214 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 10550 4050 50  0001 C CNN
-F 3 "" H 10550 4050 50  0000 C CNN
-	1    10550 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW60
-U 1 1 60C632D6
-P 11750 4050
-F 0 "SW60" H 11750 3859 50  0000 C CNN
-F 1 "SW_PUSH" H 11750 3950 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 11750 4050 50  0001 C CNN
-F 3 "" H 11750 4050 50  0000 C CNN
-	1    11750 4050
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D15
-U 1 1 60C632DC
-P 13150 4050
-F 0 "D15" H 13150 4267 50  0000 C CNN
-F 1 "BAV70" H 13150 4176 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 13150 4050 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 4050 50  0001 C CNN
-	1    13150 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW61
-U 1 1 60C632E2
-P 12550 4050
-F 0 "SW61" H 12550 4305 50  0000 C CNN
-F 1 "SW_PUSH" H 12550 4214 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-2U-Hotswap-ReversedStabilizers" H 12550 4050 50  0001 C CNN
-F 3 "" H 12550 4050 50  0000 C CNN
-	1    12550 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW62
-U 1 1 60C632E8
-P 13750 4050
-F 0 "SW62" H 13750 3859 50  0000 C CNN
-F 1 "SW_PUSH" H 13750 3950 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.25U-Hotswap" H 13750 4050 50  0001 C CNN
-F 3 "" H 13750 4050 50  0000 C CNN
-	1    13750 4050
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D20
-U 1 1 60C632EE
-P 15150 4050
-F 0 "D20" H 15150 4267 50  0000 C CNN
-F 1 "BAV70" H 15150 4176 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 15150 4050 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 4050 50  0001 C CNN
-	1    15150 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW63
-U 1 1 60C632F4
-P 14550 4050
-F 0 "SW63" H 14550 4305 50  0000 C CNN
-F 1 "SW_PUSH" H 14550 4214 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-2.75U-Hotswap-ReversedStabilizers" H 14550 4050 50  0001 C CNN
-F 3 "" H 14550 4050 50  0000 C CNN
-	1    14550 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW64
-U 1 1 60C6330C
-P 17750 4050
-F 0 "SW64" H 17750 3859 50  0000 C CNN
-F 1 "SW_PUSH" H 17750 3950 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 17750 4050 50  0001 C CNN
-F 3 "" H 17750 4050 50  0000 C CNN
-	1    17750 4050
-	-1   0    0    1   
-$EndComp
-$Comp
-L Diode:BAV70 D33
-U 1 1 60C63312
-P 21150 4050
-F 0 "D33" H 21150 4267 50  0000 C CNN
-F 1 "BAV70" H 21150 4176 50  0000 C CNN
-F 2 "Keebio-Parts:SOT-23" H 21150 4050 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 4050 50  0001 C CNN
-	1    21150 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L kbd:SW_PUSH SW65
-U 1 1 60C63330
-P 21750 4050
-F 0 "SW65" H 21750 3859 50  0000 C CNN
-F 1 "SW_PUSH" H 21750 3950 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 21750 4050 50  0001 C CNN
-F 3 "" H 21750 4050 50  0000 C CNN
-	1    21750 4050
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	9150 950  9150 1500
-Connection ~ 9150 1500
-Wire Wire Line
-	9150 1500 9150 2200
-Connection ~ 9150 2200
-Wire Wire Line
-	9150 2200 9150 2900
-Connection ~ 9150 2900
-Wire Wire Line
-	9150 2900 9150 3600
-Connection ~ 9150 3600
-Wire Wire Line
-	9150 3600 9150 4250
-Wire Wire Line
-	11150 950  11150 1500
-Connection ~ 11150 1500
-Wire Wire Line
-	11150 1500 11150 2200
-Connection ~ 11150 2200
-Wire Wire Line
-	11150 2200 11150 2900
-Connection ~ 11150 2900
-Wire Wire Line
-	11150 2900 11150 3600
-Connection ~ 11150 3600
-Wire Wire Line
-	11150 3600 11150 4250
-Wire Wire Line
-	13150 950  13150 1500
-Connection ~ 13150 1500
-Wire Wire Line
-	13150 1500 13150 2200
-Connection ~ 13150 2200
-Wire Wire Line
-	13150 2200 13150 2900
-Connection ~ 13150 2900
-Wire Wire Line
-	13150 2900 13150 3600
-Connection ~ 13150 3600
-Wire Wire Line
-	13150 3600 13150 4250
-Wire Wire Line
-	15150 950  15150 1500
-Connection ~ 15150 1500
-Wire Wire Line
-	15150 1500 15150 2200
-Connection ~ 15150 2200
-Wire Wire Line
-	15150 2200 15150 2900
-Connection ~ 15150 2900
-Wire Wire Line
-	15150 2900 15150 3600
-Connection ~ 15150 3600
-Wire Wire Line
-	15150 3600 15150 4250
-Wire Wire Line
-	17150 950  17150 1500
-Connection ~ 17150 1500
-Wire Wire Line
-	17150 1500 17150 2200
-Connection ~ 17150 2200
-Wire Wire Line
-	17150 2200 17150 2900
-Wire Wire Line
-	19150 950  19150 1500
-Connection ~ 19150 1500
-Wire Wire Line
-	19150 1500 19150 2200
-Connection ~ 19150 2200
-Wire Wire Line
-	19150 2200 19150 2900
-Connection ~ 19150 2900
-Wire Wire Line
-	19150 2900 19150 3600
-Wire Wire Line
-	21150 950  21150 1500
-Connection ~ 21150 1500
-Wire Wire Line
-	21150 1500 21150 2200
-Connection ~ 21150 2200
-Wire Wire Line
-	21150 2200 21150 2900
-Connection ~ 21150 2900
-Wire Wire Line
-	21150 2900 21150 3600
-Wire Wire Line
-	8100 1250 8250 1250
-Wire Wire Line
-	8100 2650 8250 2650
-Wire Wire Line
-	8100 3350 8250 3350
-Wire Wire Line
-	8100 4000 8250 4000
-Wire Wire Line
-	10050 1300 10050 1350
-Connection ~ 10050 1350
-Wire Wire Line
-	10050 1350 8100 1350
-Wire Wire Line
-	10250 1300 10250 1250
-Connection ~ 10250 1250
-Wire Wire Line
-	10250 1250 12250 1250
-Wire Wire Line
-	12050 1300 12050 1350
-Connection ~ 12050 1350
-Wire Wire Line
-	12050 1350 10050 1350
-Wire Wire Line
-	12250 1300 12250 1250
-Connection ~ 12250 1250
-Wire Wire Line
-	12250 1250 14250 1250
-Wire Wire Line
-	14050 1300 14050 1350
-Connection ~ 14050 1350
-Wire Wire Line
-	14050 1350 12050 1350
-Wire Wire Line
-	14250 1300 14250 1250
-Connection ~ 14250 1250
-Wire Wire Line
-	14250 1250 16250 1250
-Wire Wire Line
-	16050 1300 16050 1350
-Connection ~ 16050 1350
-Wire Wire Line
-	16050 1350 14050 1350
-Wire Wire Line
-	16250 1300 16250 1250
-Connection ~ 16250 1250
-Wire Wire Line
-	16250 1250 18250 1250
-Wire Wire Line
-	18050 1300 18050 1350
-Connection ~ 18050 1350
-Wire Wire Line
-	18050 1350 16050 1350
-Wire Wire Line
-	18250 1300 18250 1250
-Connection ~ 18250 1250
-Wire Wire Line
-	18250 1250 20250 1250
-Wire Wire Line
-	20050 1300 20050 1350
-Connection ~ 20050 1350
-Wire Wire Line
-	20050 1350 18050 1350
-Wire Wire Line
-	20250 1300 20250 1250
-Wire Wire Line
-	22050 1300 22050 1350
-Wire Wire Line
-	22050 1350 20050 1350
-Wire Wire Line
-	10050 2000 10050 2050
-Connection ~ 10050 2050
-Wire Wire Line
-	10050 2050 8100 2050
-Wire Wire Line
-	10250 2000 10250 1950
-Wire Wire Line
-	10250 1950 12250 1950
-Wire Wire Line
-	12050 2000 12050 2050
-Connection ~ 12050 2050
-Wire Wire Line
-	12050 2050 10050 2050
-Wire Wire Line
-	12250 2000 12250 1950
-Connection ~ 12250 1950
-Wire Wire Line
-	12250 1950 14250 1950
-Wire Wire Line
-	14050 2000 14050 2050
-Connection ~ 14050 2050
-Wire Wire Line
-	14050 2050 12050 2050
-Wire Wire Line
-	14250 2000 14250 1950
-Connection ~ 14250 1950
-Wire Wire Line
-	14250 1950 16250 1950
-Wire Wire Line
-	16050 2000 16050 2050
-Connection ~ 16050 2050
-Wire Wire Line
-	16050 2050 14050 2050
-Wire Wire Line
-	16250 2000 16250 1950
-Connection ~ 16250 1950
-Wire Wire Line
-	16250 1950 18250 1950
-Wire Wire Line
-	18050 2000 18050 2050
-Connection ~ 18050 2050
-Wire Wire Line
-	18050 2050 16050 2050
-Wire Wire Line
-	18250 2000 18250 1950
-Connection ~ 18250 1950
-Wire Wire Line
-	18250 1950 20250 1950
-Wire Wire Line
-	20050 2000 20050 2050
-Connection ~ 20050 2050
-Wire Wire Line
-	20050 2050 18050 2050
-Wire Wire Line
-	20250 2000 20250 1950
-Wire Wire Line
-	22050 2000 22050 2050
-Wire Wire Line
-	22050 2050 20050 2050
-Wire Wire Line
-	22050 2700 22050 2750
-Wire Wire Line
-	22050 2750 20050 2750
-Wire Wire Line
-	20250 2700 20250 2650
-Wire Wire Line
-	20050 2700 20050 2750
-Connection ~ 20050 2750
-Wire Wire Line
-	20050 2750 18050 2750
-Wire Wire Line
-	18250 2700 18250 2650
-Connection ~ 18250 2650
-Wire Wire Line
-	18250 2650 20250 2650
-Wire Wire Line
-	18050 2700 18050 2750
-Connection ~ 18050 2750
-Wire Wire Line
-	18050 2750 16050 2750
-Wire Wire Line
-	16250 2700 16250 2650
-Connection ~ 16250 2650
-Wire Wire Line
-	16250 2650 18250 2650
-Wire Wire Line
-	16050 2700 16050 2750
-Connection ~ 16050 2750
-Wire Wire Line
-	16050 2750 14050 2750
-Wire Wire Line
-	14250 2700 14250 2650
-Connection ~ 14250 2650
-Wire Wire Line
-	14250 2650 16250 2650
-Wire Wire Line
-	14050 2700 14050 2750
-Connection ~ 14050 2750
-Wire Wire Line
-	14050 2750 12050 2750
-Wire Wire Line
-	12250 2700 12250 2650
-Connection ~ 12250 2650
-Wire Wire Line
-	12250 2650 14250 2650
-Wire Wire Line
-	12050 2700 12050 2750
-Connection ~ 12050 2750
-Wire Wire Line
-	12050 2750 10050 2750
-Wire Wire Line
-	10250 2700 10250 2650
-Connection ~ 10250 2650
-Wire Wire Line
-	10250 2650 12250 2650
-Wire Wire Line
-	10050 2700 10050 2750
-Connection ~ 10050 2750
-Wire Wire Line
-	10050 2750 8100 2750
-Wire Wire Line
-	8250 2700 8250 2650
-Connection ~ 8250 2650
-Wire Wire Line
-	8250 2650 10250 2650
-Wire Wire Line
-	8250 3400 8250 3350
-Connection ~ 8250 3350
-Wire Wire Line
-	8250 3350 10250 3350
-Wire Wire Line
-	10050 3400 10050 3450
-Connection ~ 10050 3450
-Wire Wire Line
-	10050 3450 8100 3450
-Wire Wire Line
-	10250 3400 10250 3350
-Connection ~ 10250 3350
-Wire Wire Line
-	10250 3350 12250 3350
-Wire Wire Line
-	12050 3400 12050 3450
-Connection ~ 12050 3450
-Wire Wire Line
-	12050 3450 10050 3450
-Wire Wire Line
-	12250 3400 12250 3350
-Connection ~ 12250 3350
-Wire Wire Line
-	12250 3350 14250 3350
-Wire Wire Line
-	14050 3400 14050 3450
-Connection ~ 14050 3450
-Wire Wire Line
-	14050 3450 12050 3450
-Wire Wire Line
-	14250 3400 14250 3350
-Connection ~ 14250 3350
-Wire Wire Line
-	14250 3350 16250 3350
-Wire Wire Line
-	16050 3400 16050 3450
-Connection ~ 16050 3450
-Wire Wire Line
-	16050 3450 14050 3450
-Wire Wire Line
-	16250 3400 16250 3350
-Connection ~ 16250 3350
-Wire Wire Line
-	16250 3350 18250 3350
-Wire Wire Line
-	18050 3400 18050 3450
-Connection ~ 18050 3450
-Wire Wire Line
-	18050 3450 16050 3450
-Wire Wire Line
-	18250 3400 18250 3350
-Connection ~ 18250 3350
-Wire Wire Line
-	18250 3350 20250 3350
-Wire Wire Line
-	20050 3400 20050 3450
-Connection ~ 20050 3450
-Wire Wire Line
-	20050 3450 18050 3450
-Wire Wire Line
-	20250 3400 20250 3350
-Wire Wire Line
-	22050 3400 22050 3450
-Wire Wire Line
-	22050 3450 20050 3450
-Wire Wire Line
-	22050 4050 22050 4100
-Wire Wire Line
-	18050 4050 18050 4100
-Connection ~ 18050 4100
-Wire Wire Line
-	14250 4050 14250 4000
-Wire Wire Line
-	14050 4050 14050 4100
-Connection ~ 14050 4100
-Wire Wire Line
-	14050 4100 12050 4100
-Wire Wire Line
-	12250 4050 12250 4000
-Connection ~ 12250 4000
-Wire Wire Line
-	12250 4000 14250 4000
-Wire Wire Line
-	12050 4050 12050 4100
-Connection ~ 12050 4100
-Wire Wire Line
-	12050 4100 10050 4100
-Wire Wire Line
-	10250 4050 10250 4000
-Connection ~ 10250 4000
-Wire Wire Line
-	10250 4000 12250 4000
-Wire Wire Line
-	10050 4050 10050 4100
-Connection ~ 10050 4100
-Wire Wire Line
-	10050 4100 8100 4100
-Wire Wire Line
-	8250 4050 8250 4000
-Connection ~ 8250 4000
-Wire Wire Line
-	8250 4000 10250 4000
-Connection ~ 10250 1950
-Wire Wire Line
-	8100 1950 8250 1950
-Wire Wire Line
-	8250 2000 8250 1950
-Connection ~ 8250 1950
-Wire Wire Line
-	8250 1950 10250 1950
-Wire Wire Line
-	8250 1300 8250 1250
-Connection ~ 8250 1250
-Wire Wire Line
-	8250 1250 10250 1250
-Text GLabel 8100 1250 0    50   Input ~ 0
-r0
-Text GLabel 8100 1350 0    50   Input ~ 0
-r1
-Text GLabel 8100 1950 0    50   Input ~ 0
-r2
-Text GLabel 8100 2050 0    50   Input ~ 0
-r3
-Text GLabel 8100 2650 0    50   Input ~ 0
-r4
-Text GLabel 8100 2750 0    50   Input ~ 0
-r5
-Text GLabel 8100 3350 0    50   Input ~ 0
-r6
-Text GLabel 8100 3450 0    50   Input ~ 0
-r7
-Text GLabel 8100 4000 0    50   Input ~ 0
-r8
-Text GLabel 8100 4100 0    50   Input ~ 0
-r9
-Text GLabel 9150 950  0    50   Input ~ 0
-c0
-Text GLabel 11150 950  0    50   Input ~ 0
-c1
-Text GLabel 13150 950  0    50   Input ~ 0
-c2
-Text GLabel 15150 950  0    50   Input ~ 0
-c3
-Text GLabel 17150 950  0    50   Input ~ 0
-c4
-Text GLabel 19150 950  0    50   Input ~ 0
-c5
-Text GLabel 21150 950  0    50   Input ~ 0
-c6
-$Comp
 L Device:Rotary_Encoder_Switch SW29_2
 U 1 1 60E03D83
 P 6850 1550
@@ -1544,29 +46,6 @@ F 3 "~" H 6850 3210 50  0001 C CNN
 	1    6850 2950
 	1    0    0    -1  
 $EndComp
-$Comp
-L kbd:SW_PUSH SW38
-U 1 1 60C4C85E
-P 17750 2700
-F 0 "SW38" H 17750 2509 50  0000 C CNN
-F 1 "SW_PUSH" H 17750 2600 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 17750 2700 50  0001 C CNN
-F 3 "" H 17750 2700 50  0000 C CNN
-	1    17750 2700
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	14050 4100 18050 4100
-Wire Wire Line
-	17450 4050 15450 4050
-Connection ~ 17150 2900
-Wire Wire Line
-	17150 2900 17150 3600
-Wire Wire Line
-	18050 4100 22050 4100
-Wire Wire Line
-	21150 4250 21150 3600
-Connection ~ 21150 3600
 Text GLabel 7150 1450 2    50   Input ~ 0
 rot1s1
 Text GLabel 7150 1650 2    50   Input ~ 0
@@ -1591,117 +70,6 @@ Text GLabel 6550 2350 0    50   Input ~ 0
 rot2b
 Text GLabel 6550 1650 0    50   Input ~ 0
 rot1b
-$Comp
-L kbd:SW_PUSH SW66
-U 1 1 60BE146C
-P 20550 4050
-F 0 "SW66" H 20550 4305 50  0000 C CNN
-F 1 "SW_PUSH" H 20550 4214 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 20550 4050 50  0001 C CNN
-F 3 "" H 20550 4050 50  0000 C CNN
-	1    20550 4050
-	1    0    0    -1  
-$EndComp
-NoConn ~ 16900 4300
-Wire Wire Line
-	14250 4000 20250 4000
-Wire Wire Line
-	20250 4000 20250 4050
-Connection ~ 14250 4000
-$Comp
-L kbd:SW_PUSH SW14_2
-U 1 1 60C02A2B
-P 21750 900
-F 0 "SW14_2" H 21750 709 50  0000 C CNN
-F 1 "SW_PUSH" H 21750 800 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 21750 900 50  0001 C CNN
-F 3 "" H 21750 900 50  0000 C CNN
-	1    21750 900 
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	21450 900  21450 1300
-Connection ~ 21450 1300
-Wire Wire Line
-	22050 900  22050 1300
-Connection ~ 22050 1300
-$Comp
-L kbd:SW_PUSH SW55_2
-U 1 1 60C135F4
-P 20550 3100
-F 0 "SW55_2" H 20550 3355 50  0000 C CNN
-F 1 "SW_PUSH" H 20550 3264 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-2.75U-Hotswap-ReversedStabilizers" H 20550 3100 50  0001 C CNN
-F 3 "" H 20550 3100 50  0000 C CNN
-	1    20550 3100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	20850 3100 20850 3400
-Connection ~ 20850 3400
-Wire Wire Line
-	20250 3100 20250 3350
-Connection ~ 20250 3350
-$Comp
-L kbd:SW_PUSH SW62_2
-U 1 1 60C24907
-P 13750 3750
-F 0 "SW62_2" H 13750 3559 50  0000 C CNN
-F 1 "SW_PUSH" H 13750 3650 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 3750 50  0001 C CNN
-F 3 "" H 13750 3750 50  0000 C CNN
-	1    13750 3750
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	14050 3750 14050 4050
-Connection ~ 14050 4050
-Wire Wire Line
-	13450 3750 13450 4050
-Connection ~ 13450 4050
-$Comp
-L kbd:SW_PUSH SW61_2
-U 1 1 60C362DE
-P 12550 3750
-F 0 "SW61_2" H 12550 4005 50  0000 C CNN
-F 1 "SW_PUSH" H 12550 3914 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-2.25U-Hotswap" H 12550 3750 50  0001 C CNN
-F 3 "" H 12550 3750 50  0000 C CNN
-	1    12550 3750
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	12250 3750 12250 4000
-Wire Wire Line
-	12850 3750 12850 4050
-Connection ~ 12850 4050
-$Comp
-L kbd:SW_PUSH SW30_2
-U 1 1 60C482DE
-P 9750 2350
-F 0 "SW30_2" H 9750 2159 50  0000 C CNN
-F 1 "SW_PUSH" H 9750 2250 50  0000 C CNN
-F 2 "MX_Alps_Hybrid-master:MXOnly-1.25U-Hotswap" H 9750 2350 50  0001 C CNN
-F 3 "" H 9750 2350 50  0000 C CNN
-	1    9750 2350
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	10050 2350 10050 2700
-Connection ~ 10050 2700
-Wire Wire Line
-	9450 2350 9450 2700
-Connection ~ 9450 2700
-Text GLabel 8250 2650 1    50   Input ~ 0
-rot1s1
-Text GLabel 8850 2700 3    50   Input ~ 0
-rot1s2
-Text GLabel 8250 4000 1    50   Input ~ 0
-rot2s1
-Text GLabel 10050 4100 3    50   Input ~ 0
-rot3s1
-Text GLabel 9450 4050 1    50   Input ~ 0
-rot3s2
 NoConn ~ -4300 0   
 $Comp
 L power:GND #PWR0101
@@ -3394,8 +1762,6 @@ Text GLabel 1950 8200 2    50   Input ~ 0
 cc2
 Text GLabel 1950 8100 2    50   Input ~ 0
 cc1
-Text GLabel 8850 4050 3    50   Input ~ 0
-rot2s2
 Wire Wire Line
 	5300 7950 5300 7550
 Wire Wire Line
@@ -3887,31 +2253,31 @@ Wire Wire Line
 	3350 2000 3350 3200
 Connection ~ 3350 3200
 Text GLabel 2100 3700 3    50   Input ~ 0
-r0
+C0
 Text GLabel 2000 3700 3    50   Input ~ 0
-r1
+C1
 Text GLabel 1700 3700 3    50   Input ~ 0
-r2
+C2
 Text GLabel 1400 2600 0    50   Input ~ 0
-r4
+C4
 Text GLabel 2800 2900 2    50   Input ~ 0
-r6
+C6
 Text GLabel 1400 3000 0    50   Input ~ 0
-r7
+C7
 Text GLabel 1400 2800 0    50   Input ~ 0
-r8
+C8
 Text GLabel 1400 2700 0    50   Input ~ 0
-c0
+R0
 Text GLabel 1400 2300 0    50   Input ~ 0
-c2
+R2
 Text GLabel 2800 2400 2    50   Input ~ 0
-c3
+R3
 Text GLabel 2800 2300 2    50   Input ~ 0
-c4
+R4
 Text GLabel 2800 2700 2    50   Input ~ 0
-c5
+R5
 Text GLabel 2800 2800 2    50   Input ~ 0
-c6
+R6
 Text GLabel 1400 1700 0    50   Input ~ 0
 rot1a
 Text GLabel 1400 1800 0    50   Input ~ 0
@@ -3969,9 +2335,9 @@ P1.05
 Text Label 2800 1000 0    50   ~ 0
 P1.07
 Text GLabel 1400 2900 0    50   Input ~ 0
-r9
+C9
 Text GLabel 1900 3700 3    50   Input ~ 0
-r3
+C3
 Text Label 2800 1700 0    50   ~ 0
 P0.13
 Text Label 2800 1800 0    50   ~ 0
@@ -3990,9 +2356,9 @@ F 3 "~" H 7650 8700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 1400 2500 0    50   Input ~ 0
-r5
+C5
 Text GLabel 1400 2400 0    50   Input ~ 0
-c1
+R1
 Text Label 1400 1000 2    50   ~ 0
 P1.14
 Text Label 1400 1200 2    50   ~ 0
@@ -4107,4 +2473,1638 @@ VBAT
 Wire Wire Line
 	2050 5850 1550 5850
 Connection ~ 1550 5850
+Text GLabel 8850 4050 3    50   Input ~ 0
+rot2s2
+Text GLabel 9450 4050 1    50   Input ~ 0
+rot3s2
+Text GLabel 10050 4100 3    50   Input ~ 0
+rot3s1
+Text GLabel 8250 4000 1    50   Input ~ 0
+rot2s1
+Text GLabel 8850 2700 3    50   Input ~ 0
+rot1s2
+Text GLabel 8250 2650 1    50   Input ~ 0
+rot1s1
+Connection ~ 9450 2700
+Wire Wire Line
+	9450 2350 9450 2700
+Connection ~ 10050 2700
+Wire Wire Line
+	10050 2350 10050 2700
+$Comp
+L kbd:SW_PUSH SW30_2
+U 1 1 60C482DE
+P 9750 2350
+F 0 "SW30_2" H 9750 2159 50  0000 C CNN
+F 1 "SW_PUSH" H 9750 2250 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.25U-Hotswap" H 9750 2350 50  0001 C CNN
+F 3 "" H 9750 2350 50  0000 C CNN
+	1    9750 2350
+	-1   0    0    1   
+$EndComp
+Connection ~ 12850 4050
+Wire Wire Line
+	12850 3750 12850 4050
+Wire Wire Line
+	12250 3750 12250 4000
+$Comp
+L kbd:SW_PUSH SW61_2
+U 1 1 60C362DE
+P 12550 3750
+F 0 "SW61_2" H 12550 4005 50  0000 C CNN
+F 1 "SW_PUSH" H 12550 3914 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-2.25U-Hotswap" H 12550 3750 50  0001 C CNN
+F 3 "" H 12550 3750 50  0000 C CNN
+	1    12550 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 13450 4050
+Wire Wire Line
+	13450 3750 13450 4050
+Connection ~ 14050 4050
+Wire Wire Line
+	14050 3750 14050 4050
+$Comp
+L kbd:SW_PUSH SW62_2
+U 1 1 60C24907
+P 13750 3750
+F 0 "SW62_2" H 13750 3559 50  0000 C CNN
+F 1 "SW_PUSH" H 13750 3650 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 3750 50  0001 C CNN
+F 3 "" H 13750 3750 50  0000 C CNN
+	1    13750 3750
+	-1   0    0    1   
+$EndComp
+Connection ~ 20250 3350
+Wire Wire Line
+	20250 3100 20250 3350
+Connection ~ 20850 3400
+Wire Wire Line
+	20850 3100 20850 3400
+$Comp
+L kbd:SW_PUSH SW55_2
+U 1 1 60C135F4
+P 20550 3100
+F 0 "SW55_2" H 20550 3355 50  0000 C CNN
+F 1 "SW_PUSH" H 20550 3264 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-2.75U-Hotswap-ReversedStabilizers" H 20550 3100 50  0001 C CNN
+F 3 "" H 20550 3100 50  0000 C CNN
+	1    20550 3100
+	1    0    0    -1  
+$EndComp
+Connection ~ 22050 1300
+Wire Wire Line
+	22050 900  22050 1300
+Connection ~ 21450 1300
+Wire Wire Line
+	21450 900  21450 1300
+$Comp
+L kbd:SW_PUSH SW14_2
+U 1 1 60C02A2B
+P 21750 900
+F 0 "SW14_2" H 21750 709 50  0000 C CNN
+F 1 "SW_PUSH" H 21750 800 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 21750 900 50  0001 C CNN
+F 3 "" H 21750 900 50  0000 C CNN
+	1    21750 900 
+	-1   0    0    1   
+$EndComp
+Connection ~ 14250 4000
+Wire Wire Line
+	20250 4000 20250 4050
+Wire Wire Line
+	14250 4000 20250 4000
+NoConn ~ 16900 4300
+$Comp
+L kbd:SW_PUSH SW66
+U 1 1 60BE146C
+P 20550 4050
+F 0 "SW66" H 20550 4305 50  0000 C CNN
+F 1 "SW_PUSH" H 20550 4214 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 20550 4050 50  0001 C CNN
+F 3 "" H 20550 4050 50  0000 C CNN
+	1    20550 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 21150 3600
+Wire Wire Line
+	21150 4250 21150 3600
+Wire Wire Line
+	18050 4100 22050 4100
+Wire Wire Line
+	17150 2900 17150 3600
+Connection ~ 17150 2900
+Wire Wire Line
+	17450 4050 15450 4050
+Wire Wire Line
+	14050 4100 18050 4100
+$Comp
+L kbd:SW_PUSH SW38
+U 1 1 60C4C85E
+P 17750 2700
+F 0 "SW38" H 17750 2509 50  0000 C CNN
+F 1 "SW_PUSH" H 17750 2600 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 17750 2700 50  0001 C CNN
+F 3 "" H 17750 2700 50  0000 C CNN
+	1    17750 2700
+	-1   0    0    1   
+$EndComp
+Text GLabel 21150 950  0    50   Input ~ 0
+R6
+Text GLabel 19150 950  0    50   Input ~ 0
+R5
+Text GLabel 17150 950  0    50   Input ~ 0
+R4
+Text GLabel 15150 950  0    50   Input ~ 0
+R3
+Text GLabel 13150 950  0    50   Input ~ 0
+R2
+Text GLabel 11150 950  0    50   Input ~ 0
+R1
+Text GLabel 9150 950  0    50   Input ~ 0
+R0
+Text GLabel 8100 4100 0    50   Input ~ 0
+C9
+Text GLabel 8100 4000 0    50   Input ~ 0
+C8
+Text GLabel 8100 3450 0    50   Input ~ 0
+C7
+Text GLabel 8100 3350 0    50   Input ~ 0
+C6
+Text GLabel 8100 2750 0    50   Input ~ 0
+C5
+Text GLabel 8100 2650 0    50   Input ~ 0
+C4
+Text GLabel 8100 2050 0    50   Input ~ 0
+C3
+Text GLabel 8100 1950 0    50   Input ~ 0
+C2
+Text GLabel 8100 1350 0    50   Input ~ 0
+C1
+Text GLabel 8100 1250 0    50   Input ~ 0
+C0
+Wire Wire Line
+	8250 1250 10250 1250
+Connection ~ 8250 1250
+Wire Wire Line
+	8250 1300 8250 1250
+Wire Wire Line
+	8250 1950 10250 1950
+Connection ~ 8250 1950
+Wire Wire Line
+	8250 2000 8250 1950
+Wire Wire Line
+	8100 1950 8250 1950
+Connection ~ 10250 1950
+Wire Wire Line
+	8250 4000 10250 4000
+Connection ~ 8250 4000
+Wire Wire Line
+	8250 4050 8250 4000
+Wire Wire Line
+	10050 4100 8100 4100
+Connection ~ 10050 4100
+Wire Wire Line
+	10050 4050 10050 4100
+Wire Wire Line
+	10250 4000 12250 4000
+Connection ~ 10250 4000
+Wire Wire Line
+	10250 4050 10250 4000
+Wire Wire Line
+	12050 4100 10050 4100
+Connection ~ 12050 4100
+Wire Wire Line
+	12050 4050 12050 4100
+Wire Wire Line
+	12250 4000 14250 4000
+Connection ~ 12250 4000
+Wire Wire Line
+	12250 4050 12250 4000
+Wire Wire Line
+	14050 4100 12050 4100
+Connection ~ 14050 4100
+Wire Wire Line
+	14050 4050 14050 4100
+Wire Wire Line
+	14250 4050 14250 4000
+Connection ~ 18050 4100
+Wire Wire Line
+	18050 4050 18050 4100
+Wire Wire Line
+	22050 4050 22050 4100
+Wire Wire Line
+	22050 3450 20050 3450
+Wire Wire Line
+	22050 3400 22050 3450
+Wire Wire Line
+	20250 3400 20250 3350
+Wire Wire Line
+	20050 3450 18050 3450
+Connection ~ 20050 3450
+Wire Wire Line
+	20050 3400 20050 3450
+Wire Wire Line
+	18250 3350 20250 3350
+Connection ~ 18250 3350
+Wire Wire Line
+	18250 3400 18250 3350
+Wire Wire Line
+	18050 3450 16050 3450
+Connection ~ 18050 3450
+Wire Wire Line
+	18050 3400 18050 3450
+Wire Wire Line
+	16250 3350 18250 3350
+Connection ~ 16250 3350
+Wire Wire Line
+	16250 3400 16250 3350
+Wire Wire Line
+	16050 3450 14050 3450
+Connection ~ 16050 3450
+Wire Wire Line
+	16050 3400 16050 3450
+Wire Wire Line
+	14250 3350 16250 3350
+Connection ~ 14250 3350
+Wire Wire Line
+	14250 3400 14250 3350
+Wire Wire Line
+	14050 3450 12050 3450
+Connection ~ 14050 3450
+Wire Wire Line
+	14050 3400 14050 3450
+Wire Wire Line
+	12250 3350 14250 3350
+Connection ~ 12250 3350
+Wire Wire Line
+	12250 3400 12250 3350
+Wire Wire Line
+	12050 3450 10050 3450
+Connection ~ 12050 3450
+Wire Wire Line
+	12050 3400 12050 3450
+Wire Wire Line
+	10250 3350 12250 3350
+Connection ~ 10250 3350
+Wire Wire Line
+	10250 3400 10250 3350
+Wire Wire Line
+	10050 3450 8100 3450
+Connection ~ 10050 3450
+Wire Wire Line
+	10050 3400 10050 3450
+Wire Wire Line
+	8250 3350 10250 3350
+Connection ~ 8250 3350
+Wire Wire Line
+	8250 3400 8250 3350
+Wire Wire Line
+	8250 2650 10250 2650
+Connection ~ 8250 2650
+Wire Wire Line
+	8250 2700 8250 2650
+Wire Wire Line
+	10050 2750 8100 2750
+Connection ~ 10050 2750
+Wire Wire Line
+	10050 2700 10050 2750
+Wire Wire Line
+	10250 2650 12250 2650
+Connection ~ 10250 2650
+Wire Wire Line
+	10250 2700 10250 2650
+Wire Wire Line
+	12050 2750 10050 2750
+Connection ~ 12050 2750
+Wire Wire Line
+	12050 2700 12050 2750
+Wire Wire Line
+	12250 2650 14250 2650
+Connection ~ 12250 2650
+Wire Wire Line
+	12250 2700 12250 2650
+Wire Wire Line
+	14050 2750 12050 2750
+Connection ~ 14050 2750
+Wire Wire Line
+	14050 2700 14050 2750
+Wire Wire Line
+	14250 2650 16250 2650
+Connection ~ 14250 2650
+Wire Wire Line
+	14250 2700 14250 2650
+Wire Wire Line
+	16050 2750 14050 2750
+Connection ~ 16050 2750
+Wire Wire Line
+	16050 2700 16050 2750
+Wire Wire Line
+	16250 2650 18250 2650
+Connection ~ 16250 2650
+Wire Wire Line
+	16250 2700 16250 2650
+Wire Wire Line
+	18050 2750 16050 2750
+Connection ~ 18050 2750
+Wire Wire Line
+	18050 2700 18050 2750
+Wire Wire Line
+	18250 2650 20250 2650
+Connection ~ 18250 2650
+Wire Wire Line
+	18250 2700 18250 2650
+Wire Wire Line
+	20050 2750 18050 2750
+Connection ~ 20050 2750
+Wire Wire Line
+	20050 2700 20050 2750
+Wire Wire Line
+	20250 2700 20250 2650
+Wire Wire Line
+	22050 2750 20050 2750
+Wire Wire Line
+	22050 2700 22050 2750
+Wire Wire Line
+	22050 2050 20050 2050
+Wire Wire Line
+	22050 2000 22050 2050
+Wire Wire Line
+	20250 2000 20250 1950
+Wire Wire Line
+	20050 2050 18050 2050
+Connection ~ 20050 2050
+Wire Wire Line
+	20050 2000 20050 2050
+Wire Wire Line
+	18250 1950 20250 1950
+Connection ~ 18250 1950
+Wire Wire Line
+	18250 2000 18250 1950
+Wire Wire Line
+	18050 2050 16050 2050
+Connection ~ 18050 2050
+Wire Wire Line
+	18050 2000 18050 2050
+Wire Wire Line
+	16250 1950 18250 1950
+Connection ~ 16250 1950
+Wire Wire Line
+	16250 2000 16250 1950
+Wire Wire Line
+	16050 2050 14050 2050
+Connection ~ 16050 2050
+Wire Wire Line
+	16050 2000 16050 2050
+Wire Wire Line
+	14250 1950 16250 1950
+Connection ~ 14250 1950
+Wire Wire Line
+	14250 2000 14250 1950
+Wire Wire Line
+	14050 2050 12050 2050
+Connection ~ 14050 2050
+Wire Wire Line
+	14050 2000 14050 2050
+Wire Wire Line
+	12250 1950 14250 1950
+Connection ~ 12250 1950
+Wire Wire Line
+	12250 2000 12250 1950
+Wire Wire Line
+	12050 2050 10050 2050
+Connection ~ 12050 2050
+Wire Wire Line
+	12050 2000 12050 2050
+Wire Wire Line
+	10250 1950 12250 1950
+Wire Wire Line
+	10250 2000 10250 1950
+Wire Wire Line
+	10050 2050 8100 2050
+Connection ~ 10050 2050
+Wire Wire Line
+	10050 2000 10050 2050
+Wire Wire Line
+	22050 1350 20050 1350
+Wire Wire Line
+	22050 1300 22050 1350
+Wire Wire Line
+	20250 1300 20250 1250
+Wire Wire Line
+	20050 1350 18050 1350
+Connection ~ 20050 1350
+Wire Wire Line
+	20050 1300 20050 1350
+Wire Wire Line
+	18250 1250 20250 1250
+Connection ~ 18250 1250
+Wire Wire Line
+	18250 1300 18250 1250
+Wire Wire Line
+	18050 1350 16050 1350
+Connection ~ 18050 1350
+Wire Wire Line
+	18050 1300 18050 1350
+Wire Wire Line
+	16250 1250 18250 1250
+Connection ~ 16250 1250
+Wire Wire Line
+	16250 1300 16250 1250
+Wire Wire Line
+	16050 1350 14050 1350
+Connection ~ 16050 1350
+Wire Wire Line
+	16050 1300 16050 1350
+Wire Wire Line
+	14250 1250 16250 1250
+Connection ~ 14250 1250
+Wire Wire Line
+	14250 1300 14250 1250
+Wire Wire Line
+	14050 1350 12050 1350
+Connection ~ 14050 1350
+Wire Wire Line
+	14050 1300 14050 1350
+Wire Wire Line
+	12250 1250 14250 1250
+Connection ~ 12250 1250
+Wire Wire Line
+	12250 1300 12250 1250
+Wire Wire Line
+	12050 1350 10050 1350
+Connection ~ 12050 1350
+Wire Wire Line
+	12050 1300 12050 1350
+Wire Wire Line
+	10250 1250 12250 1250
+Connection ~ 10250 1250
+Wire Wire Line
+	10250 1300 10250 1250
+Wire Wire Line
+	10050 1350 8100 1350
+Connection ~ 10050 1350
+Wire Wire Line
+	10050 1300 10050 1350
+Wire Wire Line
+	8100 4000 8250 4000
+Wire Wire Line
+	8100 3350 8250 3350
+Wire Wire Line
+	8100 2650 8250 2650
+Wire Wire Line
+	8100 1250 8250 1250
+Wire Wire Line
+	21150 2900 21150 3600
+Connection ~ 21150 2900
+Wire Wire Line
+	21150 2200 21150 2900
+Connection ~ 21150 2200
+Wire Wire Line
+	21150 1500 21150 2200
+Connection ~ 21150 1500
+Wire Wire Line
+	21150 950  21150 1500
+Wire Wire Line
+	19150 2900 19150 3600
+Connection ~ 19150 2900
+Wire Wire Line
+	19150 2200 19150 2900
+Connection ~ 19150 2200
+Wire Wire Line
+	19150 1500 19150 2200
+Connection ~ 19150 1500
+Wire Wire Line
+	19150 950  19150 1500
+Wire Wire Line
+	17150 2200 17150 2900
+Connection ~ 17150 2200
+Wire Wire Line
+	17150 1500 17150 2200
+Connection ~ 17150 1500
+Wire Wire Line
+	17150 950  17150 1500
+Wire Wire Line
+	15150 3600 15150 4250
+Connection ~ 15150 3600
+Wire Wire Line
+	15150 2900 15150 3600
+Connection ~ 15150 2900
+Wire Wire Line
+	15150 2200 15150 2900
+Connection ~ 15150 2200
+Wire Wire Line
+	15150 1500 15150 2200
+Connection ~ 15150 1500
+Wire Wire Line
+	15150 950  15150 1500
+Wire Wire Line
+	13150 3600 13150 4250
+Connection ~ 13150 3600
+Wire Wire Line
+	13150 2900 13150 3600
+Connection ~ 13150 2900
+Wire Wire Line
+	13150 2200 13150 2900
+Connection ~ 13150 2200
+Wire Wire Line
+	13150 1500 13150 2200
+Connection ~ 13150 1500
+Wire Wire Line
+	13150 950  13150 1500
+Wire Wire Line
+	11150 3600 11150 4250
+Connection ~ 11150 3600
+Wire Wire Line
+	11150 2900 11150 3600
+Connection ~ 11150 2900
+Wire Wire Line
+	11150 2200 11150 2900
+Connection ~ 11150 2200
+Wire Wire Line
+	11150 1500 11150 2200
+Connection ~ 11150 1500
+Wire Wire Line
+	11150 950  11150 1500
+Wire Wire Line
+	9150 3600 9150 4250
+Connection ~ 9150 3600
+Wire Wire Line
+	9150 2900 9150 3600
+Connection ~ 9150 2900
+Wire Wire Line
+	9150 2200 9150 2900
+Connection ~ 9150 2200
+Wire Wire Line
+	9150 1500 9150 2200
+Connection ~ 9150 1500
+Wire Wire Line
+	9150 950  9150 1500
+$Comp
+L kbd:SW_PUSH SW65
+U 1 1 60C63330
+P 21750 4050
+F 0 "SW65" H 21750 3859 50  0000 C CNN
+F 1 "SW_PUSH" H 21750 3950 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 21750 4050 50  0001 C CNN
+F 3 "" H 21750 4050 50  0000 C CNN
+	1    21750 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Diode:BAV70 D33
+U 1 1 60C63312
+P 21150 4050
+F 0 "D33" H 21150 4267 50  0000 C CNN
+F 1 "BAV70" H 21150 4176 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 21150 4050 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 4050 50  0001 C CNN
+	1    21150 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW64
+U 1 1 60C6330C
+P 17750 4050
+F 0 "SW64" H 17750 3859 50  0000 C CNN
+F 1 "SW_PUSH" H 17750 3950 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 17750 4050 50  0001 C CNN
+F 3 "" H 17750 4050 50  0000 C CNN
+	1    17750 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW63
+U 1 1 60C632F4
+P 14550 4050
+F 0 "SW63" H 14550 4305 50  0000 C CNN
+F 1 "SW_PUSH" H 14550 4214 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-2.75U-Hotswap-ReversedStabilizers" H 14550 4050 50  0001 C CNN
+F 3 "" H 14550 4050 50  0000 C CNN
+	1    14550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D20
+U 1 1 60C632EE
+P 15150 4050
+F 0 "D20" H 15150 4267 50  0000 C CNN
+F 1 "BAV70" H 15150 4176 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 15150 4050 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 4050 50  0001 C CNN
+	1    15150 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW62
+U 1 1 60C632E8
+P 13750 4050
+F 0 "SW62" H 13750 3859 50  0000 C CNN
+F 1 "SW_PUSH" H 13750 3950 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.25U-Hotswap" H 13750 4050 50  0001 C CNN
+F 3 "" H 13750 4050 50  0000 C CNN
+	1    13750 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW61
+U 1 1 60C632E2
+P 12550 4050
+F 0 "SW61" H 12550 4305 50  0000 C CNN
+F 1 "SW_PUSH" H 12550 4214 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-2U-Hotswap-ReversedStabilizers" H 12550 4050 50  0001 C CNN
+F 3 "" H 12550 4050 50  0000 C CNN
+	1    12550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D15
+U 1 1 60C632DC
+P 13150 4050
+F 0 "D15" H 13150 4267 50  0000 C CNN
+F 1 "BAV70" H 13150 4176 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 13150 4050 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 4050 50  0001 C CNN
+	1    13150 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW60
+U 1 1 60C632D6
+P 11750 4050
+F 0 "SW60" H 11750 3859 50  0000 C CNN
+F 1 "SW_PUSH" H 11750 3950 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 11750 4050 50  0001 C CNN
+F 3 "" H 11750 4050 50  0000 C CNN
+	1    11750 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW59
+U 1 1 60C632D0
+P 10550 4050
+F 0 "SW59" H 10550 4305 50  0000 C CNN
+F 1 "SW_PUSH" H 10550 4214 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 10550 4050 50  0001 C CNN
+F 3 "" H 10550 4050 50  0000 C CNN
+	1    10550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D10
+U 1 1 60C632CA
+P 11150 4050
+F 0 "D10" H 11150 4267 50  0000 C CNN
+F 1 "BAV70" H 11150 4176 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 11150 4050 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 4050 50  0001 C CNN
+	1    11150 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW58
+U 1 1 60C632C4
+P 9750 4050
+F 0 "SW58" H 9750 3859 50  0000 C CNN
+F 1 "SW_PUSH" H 9750 3950 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 9750 4050 50  0001 C CNN
+F 3 "" H 9750 4050 50  0000 C CNN
+	1    9750 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW57
+U 1 1 60C632BE
+P 8550 4050
+F 0 "SW57" H 8550 4305 50  0000 C CNN
+F 1 "SW_PUSH" H 8550 4214 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 8550 4050 50  0001 C CNN
+F 3 "" H 8550 4050 50  0000 C CNN
+	1    8550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D5
+U 1 1 60C632B8
+P 9150 4050
+F 0 "D5" H 9150 4267 50  0000 C CNN
+F 1 "BAV70" H 9150 4176 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 9150 4050 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 4050 50  0001 C CNN
+	1    9150 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW56
+U 1 1 60C58C47
+P 21750 3400
+F 0 "SW56" H 21750 3209 50  0000 C CNN
+F 1 "SW_PUSH" H 21750 3300 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 21750 3400 50  0001 C CNN
+F 3 "" H 21750 3400 50  0000 C CNN
+	1    21750 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW55
+U 1 1 60C58C41
+P 20550 3400
+F 0 "SW55" H 20550 3655 50  0000 C CNN
+F 1 "SW_PUSH" H 20550 3564 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.75U-Hotswap" H 20550 3400 50  0001 C CNN
+F 3 "" H 20550 3400 50  0000 C CNN
+	1    20550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D32
+U 1 1 60C58C3B
+P 21150 3400
+F 0 "D32" H 21150 3617 50  0000 C CNN
+F 1 "BAV70" H 21150 3526 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 21150 3400 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 3400 50  0001 C CNN
+	1    21150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW54
+U 1 1 60C58C35
+P 19750 3400
+F 0 "SW54" H 19750 3209 50  0000 C CNN
+F 1 "SW_PUSH" H 19750 3300 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 19750 3400 50  0001 C CNN
+F 3 "" H 19750 3400 50  0000 C CNN
+	1    19750 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW53
+U 1 1 60C58C2F
+P 18550 3400
+F 0 "SW53" H 18550 3655 50  0000 C CNN
+F 1 "SW_PUSH" H 18550 3564 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 18550 3400 50  0001 C CNN
+F 3 "" H 18550 3400 50  0000 C CNN
+	1    18550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D28
+U 1 1 60C58C29
+P 19150 3400
+F 0 "D28" H 19150 3617 50  0000 C CNN
+F 1 "BAV70" H 19150 3526 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 19150 3400 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 19150 3400 50  0001 C CNN
+	1    19150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW52
+U 1 1 60C58C23
+P 17750 3400
+F 0 "SW52" H 17750 3209 50  0000 C CNN
+F 1 "SW_PUSH" H 17750 3300 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 17750 3400 50  0001 C CNN
+F 3 "" H 17750 3400 50  0000 C CNN
+	1    17750 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW51
+U 1 1 60C58C1D
+P 16550 3400
+F 0 "SW51" H 16550 3655 50  0000 C CNN
+F 1 "SW_PUSH" H 16550 3564 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 16550 3400 50  0001 C CNN
+F 3 "" H 16550 3400 50  0000 C CNN
+	1    16550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D24
+U 1 1 60C58C17
+P 17150 3400
+F 0 "D24" H 17150 3617 50  0000 C CNN
+F 1 "BAV70" H 17150 3526 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 17150 3400 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 17150 3400 50  0001 C CNN
+	1    17150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW50
+U 1 1 60C58C11
+P 15750 3400
+F 0 "SW50" H 15750 3209 50  0000 C CNN
+F 1 "SW_PUSH" H 15750 3300 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 15750 3400 50  0001 C CNN
+F 3 "" H 15750 3400 50  0000 C CNN
+	1    15750 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW49
+U 1 1 60C58C0B
+P 14550 3400
+F 0 "SW49" H 14550 3655 50  0000 C CNN
+F 1 "SW_PUSH" H 14550 3564 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 14550 3400 50  0001 C CNN
+F 3 "" H 14550 3400 50  0000 C CNN
+	1    14550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D19
+U 1 1 60C58C05
+P 15150 3400
+F 0 "D19" H 15150 3617 50  0000 C CNN
+F 1 "BAV70" H 15150 3526 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 15150 3400 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 3400 50  0001 C CNN
+	1    15150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW48
+U 1 1 60C58BFF
+P 13750 3400
+F 0 "SW48" H 13750 3209 50  0000 C CNN
+F 1 "SW_PUSH" H 13750 3300 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 3400 50  0001 C CNN
+F 3 "" H 13750 3400 50  0000 C CNN
+	1    13750 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW47
+U 1 1 60C58BF9
+P 12550 3400
+F 0 "SW47" H 12550 3655 50  0000 C CNN
+F 1 "SW_PUSH" H 12550 3564 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 12550 3400 50  0001 C CNN
+F 3 "" H 12550 3400 50  0000 C CNN
+	1    12550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D14
+U 1 1 60C58BF3
+P 13150 3400
+F 0 "D14" H 13150 3617 50  0000 C CNN
+F 1 "BAV70" H 13150 3526 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 13150 3400 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 3400 50  0001 C CNN
+	1    13150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW46
+U 1 1 60C58BED
+P 11750 3400
+F 0 "SW46" H 11750 3209 50  0000 C CNN
+F 1 "SW_PUSH" H 11750 3300 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 11750 3400 50  0001 C CNN
+F 3 "" H 11750 3400 50  0000 C CNN
+	1    11750 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW45
+U 1 1 60C58BE7
+P 10550 3400
+F 0 "SW45" H 10550 3655 50  0000 C CNN
+F 1 "SW_PUSH" H 10550 3564 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 10550 3400 50  0001 C CNN
+F 3 "" H 10550 3400 50  0000 C CNN
+	1    10550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D9
+U 1 1 60C58BE1
+P 11150 3400
+F 0 "D9" H 11150 3617 50  0000 C CNN
+F 1 "BAV70" H 11150 3526 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 11150 3400 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 3400 50  0001 C CNN
+	1    11150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW44
+U 1 1 60C58BDB
+P 9750 3400
+F 0 "SW44" H 9750 3209 50  0000 C CNN
+F 1 "SW_PUSH" H 9750 3300 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 9750 3400 50  0001 C CNN
+F 3 "" H 9750 3400 50  0000 C CNN
+	1    9750 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW43
+U 1 1 60C58BD5
+P 8550 3400
+F 0 "SW43" H 8550 3655 50  0000 C CNN
+F 1 "SW_PUSH" H 8550 3564 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-2.25U-Hotswap" H 8550 3400 50  0001 C CNN
+F 3 "" H 8550 3400 50  0000 C CNN
+	1    8550 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D4
+U 1 1 60C58BCF
+P 9150 3400
+F 0 "D4" H 9150 3617 50  0000 C CNN
+F 1 "BAV70" H 9150 3526 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 9150 3400 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 3400 50  0001 C CNN
+	1    9150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW42
+U 1 1 60C4C882
+P 21750 2700
+F 0 "SW42" H 21750 2509 50  0000 C CNN
+F 1 "SW_PUSH" H 21750 2600 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-2.25U-Hotswap-ReversedStabilizers" H 21750 2700 50  0001 C CNN
+F 3 "" H 21750 2700 50  0000 C CNN
+	1    21750 2700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW41
+U 1 1 60C4C87C
+P 20550 2700
+F 0 "SW41" H 20550 2955 50  0000 C CNN
+F 1 "SW_PUSH" H 20550 2864 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 20550 2700 50  0001 C CNN
+F 3 "" H 20550 2700 50  0000 C CNN
+	1    20550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D31
+U 1 1 60C4C876
+P 21150 2700
+F 0 "D31" H 21150 2917 50  0000 C CNN
+F 1 "BAV70" H 21150 2826 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 21150 2700 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 2700 50  0001 C CNN
+	1    21150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW40
+U 1 1 60C4C870
+P 19750 2700
+F 0 "SW40" H 19750 2509 50  0000 C CNN
+F 1 "SW_PUSH" H 19750 2600 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 19750 2700 50  0001 C CNN
+F 3 "" H 19750 2700 50  0000 C CNN
+	1    19750 2700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW39
+U 1 1 60C4C86A
+P 18550 2700
+F 0 "SW39" H 18550 2955 50  0000 C CNN
+F 1 "SW_PUSH" H 18550 2864 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 18550 2700 50  0001 C CNN
+F 3 "" H 18550 2700 50  0000 C CNN
+	1    18550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D27
+U 1 1 60C4C864
+P 19150 2700
+F 0 "D27" H 19150 2917 50  0000 C CNN
+F 1 "BAV70" H 19150 2826 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 19150 2700 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 19150 2700 50  0001 C CNN
+	1    19150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW37
+U 1 1 60C4C858
+P 16550 2700
+F 0 "SW37" H 16550 2955 50  0000 C CNN
+F 1 "SW_PUSH" H 16550 2864 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 16550 2700 50  0001 C CNN
+F 3 "" H 16550 2700 50  0000 C CNN
+	1    16550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D23
+U 1 1 60C4C852
+P 17150 2700
+F 0 "D23" H 17150 2917 50  0000 C CNN
+F 1 "BAV70" H 17150 2826 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 17150 2700 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 17150 2700 50  0001 C CNN
+	1    17150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW36
+U 1 1 60C4C84C
+P 15750 2700
+F 0 "SW36" H 15750 2509 50  0000 C CNN
+F 1 "SW_PUSH" H 15750 2600 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 15750 2700 50  0001 C CNN
+F 3 "" H 15750 2700 50  0000 C CNN
+	1    15750 2700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW35
+U 1 1 60C4C846
+P 14550 2700
+F 0 "SW35" H 14550 2955 50  0000 C CNN
+F 1 "SW_PUSH" H 14550 2864 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 14550 2700 50  0001 C CNN
+F 3 "" H 14550 2700 50  0000 C CNN
+	1    14550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D18
+U 1 1 60C4C840
+P 15150 2700
+F 0 "D18" H 15150 2917 50  0000 C CNN
+F 1 "BAV70" H 15150 2826 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 15150 2700 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 2700 50  0001 C CNN
+	1    15150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW34
+U 1 1 60C4C83A
+P 13750 2700
+F 0 "SW34" H 13750 2509 50  0000 C CNN
+F 1 "SW_PUSH" H 13750 2600 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 2700 50  0001 C CNN
+F 3 "" H 13750 2700 50  0000 C CNN
+	1    13750 2700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW33
+U 1 1 60C4C834
+P 12550 2700
+F 0 "SW33" H 12550 2955 50  0000 C CNN
+F 1 "SW_PUSH" H 12550 2864 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 12550 2700 50  0001 C CNN
+F 3 "" H 12550 2700 50  0000 C CNN
+	1    12550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D13
+U 1 1 60C4C82E
+P 13150 2700
+F 0 "D13" H 13150 2917 50  0000 C CNN
+F 1 "BAV70" H 13150 2826 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 13150 2700 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 2700 50  0001 C CNN
+	1    13150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW32
+U 1 1 60C4C828
+P 11750 2700
+F 0 "SW32" H 11750 2509 50  0000 C CNN
+F 1 "SW_PUSH" H 11750 2600 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 11750 2700 50  0001 C CNN
+F 3 "" H 11750 2700 50  0000 C CNN
+	1    11750 2700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW31
+U 1 1 60C4C822
+P 10550 2700
+F 0 "SW31" H 10550 2955 50  0000 C CNN
+F 1 "SW_PUSH" H 10550 2864 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 10550 2700 50  0001 C CNN
+F 3 "" H 10550 2700 50  0000 C CNN
+	1    10550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D8
+U 1 1 60C4C81C
+P 11150 2700
+F 0 "D8" H 11150 2917 50  0000 C CNN
+F 1 "BAV70" H 11150 2826 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 11150 2700 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 2700 50  0001 C CNN
+	1    11150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW30
+U 1 1 60C4C816
+P 9750 2700
+F 0 "SW30" H 9750 2509 50  0000 C CNN
+F 1 "SW_PUSH" H 9750 2600 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.75U-Hotswap" H 9750 2700 50  0001 C CNN
+F 3 "" H 9750 2700 50  0000 C CNN
+	1    9750 2700
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW29
+U 1 1 60C4C810
+P 8550 2700
+F 0 "SW29" H 8550 2955 50  0000 C CNN
+F 1 "SW_PUSH" H 8550 2864 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 8550 2700 50  0001 C CNN
+F 3 "" H 8550 2700 50  0000 C CNN
+	1    8550 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D3
+U 1 1 60C4C80A
+P 9150 2700
+F 0 "D3" H 9150 2917 50  0000 C CNN
+F 1 "BAV70" H 9150 2826 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 9150 2700 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 2700 50  0001 C CNN
+	1    9150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW28
+U 1 1 60C3FE29
+P 21750 2000
+F 0 "SW28" H 21750 1809 50  0000 C CNN
+F 1 "SW_PUSH" H 21750 1900 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 21750 2000 50  0001 C CNN
+F 3 "" H 21750 2000 50  0000 C CNN
+	1    21750 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW27
+U 1 1 60C3FE23
+P 20550 2000
+F 0 "SW27" H 20550 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 20550 2164 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 20550 2000 50  0001 C CNN
+F 3 "" H 20550 2000 50  0000 C CNN
+	1    20550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D30
+U 1 1 60C3FE1D
+P 21150 2000
+F 0 "D30" H 21150 2217 50  0000 C CNN
+F 1 "BAV70" H 21150 2126 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 21150 2000 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 2000 50  0001 C CNN
+	1    21150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW26
+U 1 1 60C3FE17
+P 19750 2000
+F 0 "SW26" H 19750 1809 50  0000 C CNN
+F 1 "SW_PUSH" H 19750 1900 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 19750 2000 50  0001 C CNN
+F 3 "" H 19750 2000 50  0000 C CNN
+	1    19750 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW25
+U 1 1 60C3FE11
+P 18550 2000
+F 0 "SW25" H 18550 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 18550 2164 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 18550 2000 50  0001 C CNN
+F 3 "" H 18550 2000 50  0000 C CNN
+	1    18550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D26
+U 1 1 60C3FE0B
+P 19150 2000
+F 0 "D26" H 19150 2217 50  0000 C CNN
+F 1 "BAV70" H 19150 2126 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 19150 2000 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 19150 2000 50  0001 C CNN
+	1    19150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW24
+U 1 1 60C3FE05
+P 17750 2000
+F 0 "SW24" H 17750 1809 50  0000 C CNN
+F 1 "SW_PUSH" H 17750 1900 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 17750 2000 50  0001 C CNN
+F 3 "" H 17750 2000 50  0000 C CNN
+	1    17750 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW23
+U 1 1 60C3FDFF
+P 16550 2000
+F 0 "SW23" H 16550 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 16550 2164 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 16550 2000 50  0001 C CNN
+F 3 "" H 16550 2000 50  0000 C CNN
+	1    16550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D22
+U 1 1 60C3FDF9
+P 17150 2000
+F 0 "D22" H 17150 2217 50  0000 C CNN
+F 1 "BAV70" H 17150 2126 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 17150 2000 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 17150 2000 50  0001 C CNN
+	1    17150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW22
+U 1 1 60C3FDF3
+P 15750 2000
+F 0 "SW22" H 15750 1809 50  0000 C CNN
+F 1 "SW_PUSH" H 15750 1900 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 15750 2000 50  0001 C CNN
+F 3 "" H 15750 2000 50  0000 C CNN
+	1    15750 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW21
+U 1 1 60C3FDED
+P 14550 2000
+F 0 "SW21" H 14550 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 14550 2164 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 14550 2000 50  0001 C CNN
+F 3 "" H 14550 2000 50  0000 C CNN
+	1    14550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D17
+U 1 1 60C3FDE7
+P 15150 2000
+F 0 "D17" H 15150 2217 50  0000 C CNN
+F 1 "BAV70" H 15150 2126 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 15150 2000 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 2000 50  0001 C CNN
+	1    15150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW20
+U 1 1 60C3FDE1
+P 13750 2000
+F 0 "SW20" H 13750 1809 50  0000 C CNN
+F 1 "SW_PUSH" H 13750 1900 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 2000 50  0001 C CNN
+F 3 "" H 13750 2000 50  0000 C CNN
+	1    13750 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW19
+U 1 1 60C3FDDB
+P 12550 2000
+F 0 "SW19" H 12550 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 12550 2164 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 12550 2000 50  0001 C CNN
+F 3 "" H 12550 2000 50  0000 C CNN
+	1    12550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D12
+U 1 1 60C3FDD5
+P 13150 2000
+F 0 "D12" H 13150 2217 50  0000 C CNN
+F 1 "BAV70" H 13150 2126 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 13150 2000 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 2000 50  0001 C CNN
+	1    13150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW18
+U 1 1 60C3FDCF
+P 11750 2000
+F 0 "SW18" H 11750 1809 50  0000 C CNN
+F 1 "SW_PUSH" H 11750 1900 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 11750 2000 50  0001 C CNN
+F 3 "" H 11750 2000 50  0000 C CNN
+	1    11750 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW17
+U 1 1 60C3FDC9
+P 10550 2000
+F 0 "SW17" H 10550 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 10550 2164 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 10550 2000 50  0001 C CNN
+F 3 "" H 10550 2000 50  0000 C CNN
+	1    10550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D7
+U 1 1 60C3FDC3
+P 11150 2000
+F 0 "D7" H 11150 2217 50  0000 C CNN
+F 1 "BAV70" H 11150 2126 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 11150 2000 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 2000 50  0001 C CNN
+	1    11150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW16
+U 1 1 60C3FDBD
+P 9750 2000
+F 0 "SW16" H 9750 1809 50  0000 C CNN
+F 1 "SW_PUSH" H 9750 1900 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 9750 2000 50  0001 C CNN
+F 3 "" H 9750 2000 50  0000 C CNN
+	1    9750 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW15
+U 1 1 60C3FDB7
+P 8550 2000
+F 0 "SW15" H 8550 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 8550 2164 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1.5U-Hotswap" H 8550 2000 50  0001 C CNN
+F 3 "" H 8550 2000 50  0000 C CNN
+	1    8550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D2
+U 1 1 60C3FDB1
+P 9150 2000
+F 0 "D2" H 9150 2217 50  0000 C CNN
+F 1 "BAV70" H 9150 2126 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 9150 2000 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 2000 50  0001 C CNN
+	1    9150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW14
+U 1 1 60C21171
+P 21750 1300
+F 0 "SW14" H 21750 1109 50  0000 C CNN
+F 1 "SW_PUSH" H 21750 1200 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-2U-Hotswap" H 21750 1300 50  0001 C CNN
+F 3 "" H 21750 1300 50  0000 C CNN
+	1    21750 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW13
+U 1 1 60C2116B
+P 20550 1300
+F 0 "SW13" H 20550 1555 50  0000 C CNN
+F 1 "SW_PUSH" H 20550 1464 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 20550 1300 50  0001 C CNN
+F 3 "" H 20550 1300 50  0000 C CNN
+	1    20550 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D29
+U 1 1 60C21165
+P 21150 1300
+F 0 "D29" H 21150 1517 50  0000 C CNN
+F 1 "BAV70" H 21150 1426 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 21150 1300 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 21150 1300 50  0001 C CNN
+	1    21150 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW12
+U 1 1 60C1FB78
+P 19750 1300
+F 0 "SW12" H 19750 1109 50  0000 C CNN
+F 1 "SW_PUSH" H 19750 1200 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 19750 1300 50  0001 C CNN
+F 3 "" H 19750 1300 50  0000 C CNN
+	1    19750 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW11
+U 1 1 60C1FB72
+P 18550 1300
+F 0 "SW11" H 18550 1555 50  0000 C CNN
+F 1 "SW_PUSH" H 18550 1464 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 18550 1300 50  0001 C CNN
+F 3 "" H 18550 1300 50  0000 C CNN
+	1    18550 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D25
+U 1 1 60C1FB6C
+P 19150 1300
+F 0 "D25" H 19150 1517 50  0000 C CNN
+F 1 "BAV70" H 19150 1426 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 19150 1300 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 19150 1300 50  0001 C CNN
+	1    19150 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW10
+U 1 1 60C1C972
+P 17750 1300
+F 0 "SW10" H 17750 1109 50  0000 C CNN
+F 1 "SW_PUSH" H 17750 1200 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 17750 1300 50  0001 C CNN
+F 3 "" H 17750 1300 50  0000 C CNN
+	1    17750 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW9
+U 1 1 60C1C96C
+P 16550 1300
+F 0 "SW9" H 16550 1555 50  0000 C CNN
+F 1 "SW_PUSH" H 16550 1464 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 16550 1300 50  0001 C CNN
+F 3 "" H 16550 1300 50  0000 C CNN
+	1    16550 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D21
+U 1 1 60C1C966
+P 17150 1300
+F 0 "D21" H 17150 1517 50  0000 C CNN
+F 1 "BAV70" H 17150 1426 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 17150 1300 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 17150 1300 50  0001 C CNN
+	1    17150 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW8
+U 1 1 60C1A664
+P 15750 1300
+F 0 "SW8" H 15750 1109 50  0000 C CNN
+F 1 "SW_PUSH" H 15750 1200 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 15750 1300 50  0001 C CNN
+F 3 "" H 15750 1300 50  0000 C CNN
+	1    15750 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW7
+U 1 1 60C1A65E
+P 14550 1300
+F 0 "SW7" H 14550 1555 50  0000 C CNN
+F 1 "SW_PUSH" H 14550 1464 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 14550 1300 50  0001 C CNN
+F 3 "" H 14550 1300 50  0000 C CNN
+	1    14550 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D16
+U 1 1 60C1A658
+P 15150 1300
+F 0 "D16" H 15150 1517 50  0000 C CNN
+F 1 "BAV70" H 15150 1426 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 15150 1300 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 15150 1300 50  0001 C CNN
+	1    15150 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW6
+U 1 1 60C18920
+P 13750 1300
+F 0 "SW6" H 13750 1109 50  0000 C CNN
+F 1 "SW_PUSH" H 13750 1200 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 13750 1300 50  0001 C CNN
+F 3 "" H 13750 1300 50  0000 C CNN
+	1    13750 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW5
+U 1 1 60C1891A
+P 12550 1300
+F 0 "SW5" H 12550 1555 50  0000 C CNN
+F 1 "SW_PUSH" H 12550 1464 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 12550 1300 50  0001 C CNN
+F 3 "" H 12550 1300 50  0000 C CNN
+	1    12550 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D11
+U 1 1 60C18914
+P 13150 1300
+F 0 "D11" H 13150 1517 50  0000 C CNN
+F 1 "BAV70" H 13150 1426 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 13150 1300 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 13150 1300 50  0001 C CNN
+	1    13150 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW4
+U 1 1 60C1741E
+P 11750 1300
+F 0 "SW4" H 11750 1109 50  0000 C CNN
+F 1 "SW_PUSH" H 11750 1200 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 11750 1300 50  0001 C CNN
+F 3 "" H 11750 1300 50  0000 C CNN
+	1    11750 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW3
+U 1 1 60C17418
+P 10550 1300
+F 0 "SW3" H 10550 1555 50  0000 C CNN
+F 1 "SW_PUSH" H 10550 1464 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 10550 1300 50  0001 C CNN
+F 3 "" H 10550 1300 50  0000 C CNN
+	1    10550 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D6
+U 1 1 60C17412
+P 11150 1300
+F 0 "D6" H 11150 1517 50  0000 C CNN
+F 1 "BAV70" H 11150 1426 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 11150 1300 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 11150 1300 50  0001 C CNN
+	1    11150 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW2
+U 1 1 60B7D341
+P 9750 1300
+F 0 "SW2" H 9750 1109 50  0000 C CNN
+F 1 "SW_PUSH" H 9750 1200 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 9750 1300 50  0001 C CNN
+F 3 "" H 9750 1300 50  0000 C CNN
+	1    9750 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW1
+U 1 1 60B787B3
+P 8550 1300
+F 0 "SW1" H 8550 1555 50  0000 C CNN
+F 1 "SW_PUSH" H 8550 1464 50  0000 C CNN
+F 2 "MX_Alps_Hybrid-master:MXOnly-1U-Hotswap" H 8550 1300 50  0001 C CNN
+F 3 "" H 8550 1300 50  0000 C CNN
+	1    8550 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:BAV70 D1
+U 1 1 60B72332
+P 9150 1300
+F 0 "D1" H 9150 1517 50  0000 C CNN
+F 1 "BAV70" H 9150 1426 50  0000 C CNN
+F 2 "Keebio-Parts:SOT-23" H 9150 1300 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 9150 1300 50  0001 C CNN
+	1    9150 1300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
